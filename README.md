@@ -1,2 +1,3 @@
 # GAMES
-my orginal project
+Mugisha Arnaud
+
